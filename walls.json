@@ -1,14 +1,14 @@
 {
-	"walls_count": "28",
-	"wallpapers": [
-        	"w1": "mr.haha",
-        	"w5": "mr.haha",
-        	"w6": "mr.haha",
-        	"w8": "Night walker",
-        	"w9": "mr.haha",
-        	"w10": "mr.haha",
-        	"w11": "mr.haha",
-        	"w13": "swapie mhatre",
-        	"w15": "Night Walker"
-	]
+  "walls_count": "28",
+  "wallpapers": {
+          "w1": "mr.haha",
+          "w5": "mr.haha",
+          "w6": "mr.haha",
+          "w8": "Night walker",
+          "w9": "mr.haha",
+          "w10": "mr.haha",
+          "w11": "mr.haha",
+          "w13": "swapie mhatre",
+          "w15": "Night Walker"
+  }
 }
